@@ -14,14 +14,14 @@ Backend: Flask, Node.js
 
 Databases: MySQL, SQLite
 
-Tools & Platforms: Git, GitHub, Linux, Docker
-
 IoT & Hardware: Arduino
 
 
 📂 Projects
 
 Doctor Appointment Booking System – A full-stack application with Flask and MySQL for scheduling appointments.
+
+Digital Portfolio:To showcase my work.
 
 
 
